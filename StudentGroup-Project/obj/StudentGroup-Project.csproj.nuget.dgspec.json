@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bilal\\OneDrive\\Desktop\\StudentGroup\\StudentGroup-Project\\StudentGroup-Project\\StudentGroup-Project.csproj": {}
+    "C:\\Users\\LEVAL\\OneDrive\\Desktop\\Honors Software development\\StudentGroup\\StudentGroup-Project\\StudentGroup-Project\\StudentGroup-Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bilal\\OneDrive\\Desktop\\StudentGroup\\StudentGroup-Project\\StudentGroup-Project\\StudentGroup-Project.csproj": {
+    "C:\\Users\\LEVAL\\OneDrive\\Desktop\\Honors Software development\\StudentGroup\\StudentGroup-Project\\StudentGroup-Project\\StudentGroup-Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bilal\\OneDrive\\Desktop\\StudentGroup\\StudentGroup-Project\\StudentGroup-Project\\StudentGroup-Project.csproj",
+        "projectUniqueName": "C:\\Users\\LEVAL\\OneDrive\\Desktop\\Honors Software development\\StudentGroup\\StudentGroup-Project\\StudentGroup-Project\\StudentGroup-Project.csproj",
         "projectName": "StudentGroup-Project",
-        "projectPath": "C:\\Users\\bilal\\OneDrive\\Desktop\\StudentGroup\\StudentGroup-Project\\StudentGroup-Project\\StudentGroup-Project.csproj",
-        "packagesPath": "C:\\Users\\bilal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bilal\\OneDrive\\Desktop\\StudentGroup\\StudentGroup-Project\\StudentGroup-Project\\obj\\",
+        "projectPath": "C:\\Users\\LEVAL\\OneDrive\\Desktop\\Honors Software development\\StudentGroup\\StudentGroup-Project\\StudentGroup-Project\\StudentGroup-Project.csproj",
+        "packagesPath": "C:\\Users\\LEVAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LEVAL\\OneDrive\\Desktop\\Honors Software development\\StudentGroup\\StudentGroup-Project\\StudentGroup-Project\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\bilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\LEVAL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

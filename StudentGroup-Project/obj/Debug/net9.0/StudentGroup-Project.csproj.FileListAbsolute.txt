@@ -1,0 +1,15 @@
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\obj\Debug\net9.0\StudentGroup-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\obj\Debug\net9.0\StudentGroup-Project.AssemblyInfoInputs.cache
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\obj\Debug\net9.0\StudentGroup-Project.AssemblyInfo.cs
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\obj\Debug\net9.0\StudentGroup-Project.csproj.CoreCompileInputs.cache
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\obj\Debug\net9.0\StudentGroup-Project.sourcelink.json
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\bin\Debug\net9.0\StudentGroup-Project.exe
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\bin\Debug\net9.0\StudentGroup-Project.deps.json
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\bin\Debug\net9.0\StudentGroup-Project.runtimeconfig.json
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\bin\Debug\net9.0\StudentGroup-Project.dll
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\bin\Debug\net9.0\StudentGroup-Project.pdb
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\obj\Debug\net9.0\StudentGroup-Project.dll
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\obj\Debug\net9.0\refint\StudentGroup-Project.dll
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\obj\Debug\net9.0\StudentGroup-Project.pdb
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\obj\Debug\net9.0\StudentGroup-Project.genruntimeconfig.cache
+C:\Users\LEVAL\OneDrive\Desktop\Honors Software development\StudentGroup\StudentGroup-Project\StudentGroup-Project\obj\Debug\net9.0\ref\StudentGroup-Project.dll
